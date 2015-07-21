@@ -11,9 +11,10 @@ so i can have a long run on sentence on my website.
 oops sthe sentence is too long, i better stop.
 
 ### Why Markdown?
--It's easy
--It's fast
+- It's easy
+- It's fast
 
 > I think im loving it!
 
 Test
+??
