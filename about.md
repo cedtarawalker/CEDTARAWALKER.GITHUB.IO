@@ -21,6 +21,7 @@ Our apparel and accesories are inspired by the wonderful culture of Africa and i
 <p>*Bracelets and bangles
 
 ####Each with its own cultural designs
+
 ### Contact me
 
 [royalrootsapparel@gmail.com](mailto:email@domain.com)
