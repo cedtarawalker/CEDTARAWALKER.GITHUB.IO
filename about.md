@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Our apparel and accesories are inspired by the wonderful culture of Africa and its many attributes!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Our shop encludes:
+*T-shirts
+*TankTops
+*Hoodies
+*Crewneck Sweaters
+*Bucket Hats
+*Beanies/Skullies
+*HeadWraps
+*Earrings
+*Necklaces
+*Bracelets and bangles
 
+Each with its own cultural designs
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[royalrootsapparel@gmail.com](mailto:email@domain.com)
