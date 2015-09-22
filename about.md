@@ -8,7 +8,7 @@ Our apparel and accesories are inspired by the wonderful culture of Africa and i
 
 ### More Information
 
-Our shop encludes:
+#Our shop encludes:
 <p>*T-shirts
 <p>*TankTops
 <p>*Hoodies
@@ -20,7 +20,7 @@ Our shop encludes:
 <p>*Necklaces
 <p>*Bracelets and bangles
 
-Each with its own cultural designs
+#Each with its own cultural designs
 ### Contact me
 
 [royalrootsapparel@gmail.com](mailto:email@domain.com)
