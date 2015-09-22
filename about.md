@@ -9,16 +9,16 @@ Our apparel and accesories are inspired by the wonderful culture of Africa and i
 ### More Information
 
 Our shop encludes:
-*T-shirts
-*TankTops
-*Hoodies
-*Crewneck Sweaters
-*Bucket Hats
-*Beanies/Skullies
-*HeadWraps
-*Earrings
-*Necklaces
-*Bracelets and bangles
+<p>*T-shirts
+<p>*TankTops
+<p>*Hoodies
+<p>*Crewneck Sweaters
+<p>*Bucket Hats
+<p>*Beanies/Skullies
+<p>*HeadWraps
+<p>*Earrings
+<p>*Necklaces
+<p>*Bracelets and bangles
 
 Each with its own cultural designs
 ### Contact me
