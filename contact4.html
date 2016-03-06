@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+	<title>First JQuery mobile project</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.icons.min.css">
+	<link rel="stylesheet" href="themes/first.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>
+	<script>
+	$(function() {
+		$("[data-role='navbar']").navbar();
+		$("[data-role='header'],[data-role='footer']").toolbar();
+	});
+	</script>
+</head>
+<body>
+
+	<!-- home Page -->
+<div data-role="page">
+	<div data-role="header">Assignment 4</div>
+	<div role="main" class="ui-content">
+
+<h2>Contact Cedtara Walker</h2>
+	<ul>
+	<li>Cell: (305)457-4142</li>
+	<li>Email: cedtaradwalker@gmail.com</li>
+	</ul>
+
+	</div>
+	<div data-role="footer" data-position="fixed">
+			<div data-role="navbar">
+			<ul>
+				<li><a href="home4.html" data-icon="home" data-transition="slidefade">Home</a></li>
+				<li><a href="portfolio4.html" data-icon="shop" data-transition="slidefade">Shop</a></li>
+				<li><a href="contact4.html" data-icon="mail" data-transition="slidefade">Contact</a></li>
+			</ul>
+			</div>
+
+</body>
+</html>
